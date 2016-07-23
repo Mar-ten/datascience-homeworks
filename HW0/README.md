@@ -1,6 +1,6 @@
 # Homework 0
 **Introduction to Data Science - MATH 3900 / CS 5963**  
-* This homework is due before class on Wednesday, August 24th.*
+*This homework is due before class on Wednesday, August 24th.*  
 
 
 Welcome to MATH 3900 / CS 5963 - Visualization. In this class, we will be using a variety of tools that will require some initial configuration. To ensure everything goes smoothly moving forward, we will set up the majority of those tools in this homework. This homework will not be graded, but **it is essential that you complete it before the second lecture** as it sets up the tools that we will be using in class for exercises.
