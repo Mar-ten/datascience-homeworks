@@ -20,7 +20,7 @@ This will create a folder `2016-datascience-homeworks` on your computer, with th
 As we release new homeworks, or if we discover mistakes and update an already released homework description,  you'll have to update your repository. You can do this by changing into the `2016-datascience-homeworks` directory and executing: 
 
 ```bash
-git update
+git pull
 ```
 
 That's it - you'll have the latest version of the homeworks.
