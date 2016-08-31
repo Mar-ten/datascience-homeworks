@@ -67,7 +67,7 @@ You can also check out the [official website](http://conda.pydata.org/docs/test-
 
 Another alternative of running Python is through Jupyter Notebooks. In this class we'll mainly use notebooks as they are great for the data science process and for teaching, but you should be aware of the other options we discuss here.
 
-Notebooks are stored in files that end with a `.ipynb` extension. Download [the notebook file for the first lab](https://github.com/datascience-course/2016-lab-1) and save it to a folder.
+Notebooks are stored in files that end with a `.ipynb` extension. Download [the notebook file for the first lab](https://github.com/datascience-course/2016-datascience-labs/tree/master/lab1-basic-python/) and save it to a folder.
 
 Notebooks make use of an improved, interactive client for python called [IPython](https://ipython.org/). IPython might already be installed on your machine, but probably not in the right version. We'll use anaconda to install the proper version of IPython. Run:
 
